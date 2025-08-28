@@ -1,0 +1,11 @@
+# frontend
+client/node_modules/
+client/.next/
+
+# backend
+server/dist/
+server/node_modules/
+server/prisma/
+server/.env
+
+
